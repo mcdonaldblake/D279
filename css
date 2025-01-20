@@ -1,0 +1,122 @@
+ <style>
+        /* General Styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #003B6D;
+        }
+
+        header {
+            background-color: #003B6D;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #6699CC;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        h1, h2 {
+            color: #003B6D;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        .section {
+            margin-bottom: 40px;
+            padding: 20px;
+            background-color: white;
+            border: 1px solid #BDBDBD;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .animal-photo {
+            width: 100%;
+            max-width: 400px;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+
+        footer {
+            background-color: #003B6D;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+
+        .contact-form {
+            display: flex;
+            flex-direction: column;
+            max-width: 600px;
+            margin: auto;
+        }
+
+        .contact-form label {
+            margin-top: 10px;
+            font-weight: bold;
+        }
+
+        .contact-form input, .contact-form select, .contact-form textarea {
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #BDBDBD;
+            border-radius: 4px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+        .contact-form button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #6699CC;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .contact-form button:hover {
+            background-color: #003B6D;
+        }
+
+        .link-button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 15px;
+            background-color: #6699CC;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+
+        .link-button:hover {
+            background-color: #003B6D;
+        }
+    </style>
