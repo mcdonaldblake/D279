@@ -120,11 +120,11 @@
         }
 
         .logo {
-                height: 100px;
+                height: 50px;
         }
 
         .title-logo {
-                height: auto;
-                max-height: 100px;
+                height: 50px;
+                
         }
 
