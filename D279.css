@@ -12,12 +12,16 @@
             color: white;
             padding: 20px;
             text-align: center;
+            display: flex;
+            justify-content: space-between;
         }
 
         nav {
             background-color: #6699CC;
             padding: 10px;
             text-align: center;
+            justify-content: space-between;
+            display: flex;    
         }
 
         nav a {
@@ -120,11 +124,11 @@
         }
 
         .logo {
-                height: 50px;
+                height: 70px;
         }
 
         .title-logo {
-                height: 50px;
+                height: 70px;
                 
         }
 
