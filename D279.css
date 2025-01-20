@@ -135,5 +135,12 @@
         .header-content {
                 align-items: center;
                 gap: 15px;
+        }
+
+        .slogan {
+                align-text: center;
+                font: 20px
+                font-style: bold;
+        }
                 
 
