@@ -116,7 +116,7 @@
         .section img {
             max-width: 500px;
             height: auto;
-            margin-left: 20px; /* Remove unnecessary left margin */
+            margin-left: 5px; /* Remove unnecessary left margin */
            
         }
 
