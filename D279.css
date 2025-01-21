@@ -104,9 +104,10 @@
         }
 
          .section > div {
-            display: flex; /* Aligns child elements horizontally */
-            align-items: flex-start; /* Align items vertically at the top */
-            gap: 20px; /* Adds space between the text and the image */
+             flex: 1; /* Ensures each child takes equal space */
+             min-width: 300px; /* Prevents shrinking below this size */
+             max-width: 45%; /* Limits the width of each column */
+             box-sizing: border-box;
         }
 
         .section img {
