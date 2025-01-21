@@ -98,6 +98,12 @@
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
 
+         .section img {
+            max-width: 300px;
+            height: auto;
+            margin-left: 20px;
+         }
+
         .animal-photo {
             width: 100%;
             max-width: 400px;
