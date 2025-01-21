@@ -118,6 +118,7 @@
             max-width: 400px;
             height: auto;
             margin-left: 5px; /* Remove unnecessary left margin */
+            align-items: center;
            
         }
 
