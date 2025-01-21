@@ -89,7 +89,7 @@
             line-height: 1.6;
         }
 
-        .section {
+        .section#home {
             margin-bottom: 40px;
             padding: 20px;
             background-color: white;
@@ -103,7 +103,7 @@
 
        
 
-        .section2 {
+        .section {
             margin-bottom: 40px;
             padding: 20px;
             background-color: white;
@@ -117,7 +117,7 @@
                 
         }
 
-         .section2 > div {
+         .section > div {
              flex: 1; /* Ensures each child takes equal space */
              min-width: 300px; /* Prevents shrinking below this size */
              max-width: 45%; /* Limits the width of each column */
@@ -127,7 +127,7 @@
         .section img {
             max-width: 300px;
             height: auto;
-            margin-left: 0; /* Remove unnecessary left margin */
+            margin-left: 20px; /* Remove unnecessary left margin */
         }
 
         .animal-photo {
