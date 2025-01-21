@@ -173,7 +173,6 @@
                 left: 50%;
                 transfrom: translateX(-50%);
 
-                
         }
 
         .slogan {
@@ -182,6 +181,17 @@
                 font-size: 18px;
                 color: #BDBDBD;
                 text-shadow: 1px 1px 2px;
+        }
+
+        ul {
+            list-style-type: disc;
+            margin: 20px 0;
+            padding-left: 40px;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+            line-height: 1.6;
         }
                 
 
