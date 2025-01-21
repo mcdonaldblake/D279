@@ -98,11 +98,17 @@
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
 
-         .section img {
+         .section > div {
+            display: flex; /* Aligns child elements horizontally */
+            align-items: flex-start; /* Align items vertically at the top */
+            gap: 20px; /* Adds space between the text and the image */
+        }
+
+        .section img {
             max-width: 300px;
             height: auto;
-            margin-left: 20px;
-         }
+            margin-left: 0; /* Remove unnecessary left margin */
+        }
 
         .animal-photo {
             width: 100%;
