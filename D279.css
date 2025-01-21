@@ -109,7 +109,7 @@
          .section > div {
              flex: 1; /* Ensures each child takes equal space */
              min-width: 0px; /* Prevents shrinking below this size */
-             max-width: 50%; /* Limits the width of each column */
+             max-width: 75%; /* Limits the width of each column */
              box-sizing: border-box;
         }
 
