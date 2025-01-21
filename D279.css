@@ -19,8 +19,8 @@
         }
 
         header img {
-                max-height: 20px;
-                max-width: 50px
+                max-height: 100px;
+                max-width: 200px
                 width: auto;
         }
 
@@ -168,10 +168,6 @@
                 left: 50%;
                 transfrom: translateX(-50%);
 
-        .title-container img {
-                max-height: 20px;
-                max-width: 50px
-                width: auto;
                 
         }
 
