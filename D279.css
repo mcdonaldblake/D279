@@ -163,7 +163,8 @@
                 transfrom: translateX(-50%);
 
         .title-container img {
-                max-height: 40px;
+                max-height: 30px;
+                max-width: 200px
                 width: auto;
                 
         }
