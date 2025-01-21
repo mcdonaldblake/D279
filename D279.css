@@ -106,7 +106,7 @@
                 
         }
 
-         .section#contact > div {
+         .section > div {
              flex: 1; /* Ensures each child takes equal space */
              min-width: 300px; /* Prevents shrinking below this size */
              max-width: 45%; /* Limits the width of each column */
