@@ -28,7 +28,7 @@
             background-color: #6699CC;
             padding: 10px;
             display: flex;
-            justify-content: center; /* Keeps items aligned to the left */
+            justify-content: center;
             align-items: center;
             gap: 30px;
             
