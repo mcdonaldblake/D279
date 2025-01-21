@@ -93,6 +93,7 @@
        
 
         .section {
+            margin: 0 auto;
             margin-bottom: 40px;
             padding: 20px;
             background-color: white;
