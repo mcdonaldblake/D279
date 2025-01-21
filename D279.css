@@ -5,7 +5,7 @@
             padding: 0;
             background-color: ;
             color: #003B6D;
-            font-size: 18px;
+            font-size: 16px;
         }
 
         header {
@@ -118,7 +118,7 @@
             max-width: 400px;
             height: auto;
             margin-left: 5px; /* Remove unnecessary left margin */
-            align-items: center;
+            align-self: center;
            
         }
 
