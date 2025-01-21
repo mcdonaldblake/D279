@@ -125,7 +125,7 @@
             background-color: #003B6D;
         }
 
-        .logo {
+        .title-logo {
                 height: 100px;
         }
 
@@ -135,7 +135,7 @@
                 left: 50%;
                 transfrom: translateX(-50%);
 
-        .title-logo {
+        .title-container img {
                 max-height: 60px;
                 
         }
