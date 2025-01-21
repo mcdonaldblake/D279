@@ -18,6 +18,12 @@
             
         }
 
+        header img {
+                max-height: 20px;
+                max-width: 50px
+                width: auto;
+        }
+
         nav {
             background-color: #6699CC;
             padding: 10px;
