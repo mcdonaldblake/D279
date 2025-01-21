@@ -101,6 +101,7 @@
             display: flex;
             align-items: flex-start;
             justify-content: space-between;
+            gap: 20px;
             
                 
         }
@@ -116,7 +117,7 @@
             max-width: 300px;
             height: auto;
             margin-left: 20px; /* Remove unnecessary left margin */
-            display: flex;
+           
         }
 
         .animal-photo {
