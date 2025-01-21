@@ -27,7 +27,9 @@
         nav {
             background-color: #6699CC;
             padding: 10px;
-            text-align: center;
+            display: flex;
+            justify-content: flex-start; /* Keeps items aligned to the left */
+            align-items: center;
             gap: 20px;
             
         }
@@ -48,8 +50,9 @@
         }
 
         .search-bar {
+            margin-left: auto;
             display: flex;
-            align-items: right;
+            align-items: center;
         }
 
         .search-bar input {
