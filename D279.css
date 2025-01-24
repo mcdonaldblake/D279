@@ -120,7 +120,7 @@
         }
 
         .section img {
-            max-width: 100%;
+            max-width: 50%;
             height: auto;
             margin-left: 5px; /* Remove unnecessary left margin */
             align-self: center;
